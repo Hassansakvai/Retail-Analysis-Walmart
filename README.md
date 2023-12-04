@@ -1,5 +1,5 @@
 # Retail-Analysis-Walmart
-# 1. Project Motivation
+# Project Motivation
 In this project we focused retail analysis with Walmart data and answer the following questions:
 Which stores have maximum and sales?
 Which store has maximum standard deviation i.e., the sales vary a lot?. Also, find out the coefficient of mean to standard deviation.
